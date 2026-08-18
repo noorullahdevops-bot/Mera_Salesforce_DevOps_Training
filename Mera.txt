@@ -1,3 +1,1 @@
-Performing git commands for todays session.
-Salesforce training
-Referred by Noor.
+We are performing pull request from the feature main branch.
