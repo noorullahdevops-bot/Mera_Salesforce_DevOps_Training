@@ -2,4 +2,4 @@ Performing git commands for todays session.
 
 Referred by Noor.
 
-Today we are going to raise a pull request with proper lables and approvals.
+End file.
