@@ -1,5 +1,1 @@
-Performing git commands for todays session.
-
-Referred by Noor.
-
-End file.
+Going to perform revert.
